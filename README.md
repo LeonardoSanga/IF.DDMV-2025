@@ -1,4 +1,4 @@
-# Repositório de Desenvolvimento para Dispositivos Móveis
+# Repositório Desenvolvimento para Dispositivos Móveis
 Repositório destinado aos conteúdos estudados na disciplina de Desenvolvimento para Dispositivos Móveis, utilizando o framework Flutter e a linguagem Dart como base principal.
 
 ## Multiplataforma
